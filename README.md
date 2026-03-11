@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hey, I'm Sana
+## Hey, I'm Sana Sreeraj
 
 I'm a final-year B.Tech CSE student at **SRM University** (Class of '26), building at the intersection of **iOS development**, **machine learning**, and **accessible technology**.
 
@@ -25,13 +25,13 @@ I believe great software is built at the edge of empathy and engineering.
 
 ---
 
-## 🏗️ What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [Fyle](https://github.com/sanasreeraj/fyleapp) — *Live on App Store*
+### [Fyle](https://github.com/sanasreeraj/fyleapp) — *Live on App Store*
 A smart iOS document assistant that goes beyond storage — it organises your files, tracks deadlines, and simplifies paperwork. Built with Swift, available now on the App Store.
 
 `Swift` `SwiftUI` `iOS` `CoreData`
@@ -39,7 +39,7 @@ A smart iOS document assistant that goes beyond storage — it organises your fi
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [MindMorse](https://github.com/sanasreeraj/mindMorse)
+### [MindMorse](https://github.com/sanasreeraj/mindMorse)
 Accessibility-first iOS app enabling silent, offline Morse code communication via touch gestures, haptic feedback, and sound. Built for people who communicate differently.
 
 `Swift` `CoreHaptics` `AVFoundation` `Accessibility`
@@ -49,7 +49,7 @@ Accessibility-first iOS app enabling silent, offline Morse code communication vi
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [DBMS Virtual Lab](https://github.com/sanasreeraj/DBMS-Virtual-Lab) — *Deployed*
+### [DBMS Virtual Lab](https://github.com/sanasreeraj/DBMS-Virtual-Lab) — *Deployed*
 A browser-based interactive platform to learn, practice, and visualise DBMS concepts with real-time SQL execution. No setup required — just open and learn.
 
 `TypeScript` `React` `Vite` `Tailwind CSS`
@@ -57,7 +57,7 @@ A browser-based interactive platform to learn, practice, and visualise DBMS conc
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Ball Mill Output Prediction](https://github.com/sanasreeraj/ball_mill_output_prediction)
+### [Ball Mill Output Prediction](https://github.com/sanasreeraj/ball_mill_output_prediction)
 Industrial ML model predicting material distribution across 3 sieve size ranges using 8 process parameters. Built for real-time deployment in SCADA/DCS environments using Random Forest regression.
 
 `Python` `scikit-learn` `Jupyter` `Random Forest`
@@ -68,7 +68,7 @@ Industrial ML model predicting material distribution across 3 sieve size ranges 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Mobile**
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -89,40 +89,37 @@ Industrial ML model predicting material distribution across 3 sieve size ranges 
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Where | What |
 |---|---|---|
-| 🍎 **iOS Developer Intern** | Apple × Infosys Program | Building iOS applications at the iOS Development Center, SRMIST |
-| 🌱 **Data Science & ML Intern** | Coromandel International | Predictive ML models for industrial process optimization in agri-manufacturing |
-| 🌐 **Web Developer** | Team 1618 | Front-end development for consumer services |
-| 🎤 **Event Organiser** | Gen-Y Events | Workshops, webinars, conclaves — PR, content, design, logistics |
+| **iOS Developer Intern** | Apple × Infosys Program | Building iOS applications at the iOS Development Center, SRMIST |
+| **Data Science & ML Intern** | Coromandel International | Predictive ML models for industrial process optimization in agri-manufacturing |
+| **Web Developer** | Team 1618 | Front-end development for consumer services |
+| **Event Organiser** | Gen-Y Events | Workshops, webinars, conclaves — PR, content, design, logistics |
 
 ---
 
-## 🚀 Leadership
+## Leadership
 
 **Founder — Qwiklabs Developer Club, SRMIST**
 Built and led a developer community at SRM University focused on cloud skills, Google technologies, and hands-on labs. Organised workshops, drove learning challenges, and helped students upskill in real-world cloud tools.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanasreeraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanasreeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **B.Tech Computer Science & Engineering** — SRM University, Chennai (2022–2026)
-- ☁️ **Programming in Java** — NPTEL
-- 🍎 **Apple × Infosys iOS Developer Program** — iOS Development Center, SRMIST
+- **B.Tech Computer Science & Engineering** — SRM University, Chennai (2022–2026)
+- **Apple × Infosys iOS Developer Program** — iOS Development Center, SRMIST
 
 ---
 
