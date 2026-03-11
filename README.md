@@ -95,8 +95,6 @@ Industrial ML model predicting material distribution across 3 sieve size ranges 
 |---|---|---|
 | **iOS Developer Intern** | Apple × Infosys Program | Building iOS applications at the iOS Development Center, SRMIST |
 | **Data Science & ML Intern** | Coromandel International | Predictive ML models for industrial process optimization in agri-manufacturing |
-| **Web Developer** | Team 1618 | Front-end development for consumer services |
-| **Event Organiser** | Gen-Y Events | Workshops, webinars, conclaves — PR, content, design, logistics |
 
 ---
 
